@@ -11,7 +11,7 @@ First you need to the lastest version of unity and import the Vuforia package.
 Then go to Edit > Project settings>players>XR settings and enable Vuforia
 
 ### Contributors 
-Daniel
+Daniel Bae
 
 Osama Alhaiki
 
