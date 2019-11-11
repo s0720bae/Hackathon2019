@@ -12,6 +12,9 @@ Then go to Edit > Project settings>players>XR settings and enable Vuforia
 
 ### Contributors 
 Daniel
+
 Osama Alhaiki
+
 Sam Nugent
+
 Michael Couey
